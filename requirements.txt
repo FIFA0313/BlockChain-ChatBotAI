@@ -1,0 +1,4 @@
+openai
+web3
+python-dotenv
+py-solc-x
