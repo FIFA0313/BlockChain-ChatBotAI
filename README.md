@@ -1,4 +1,4 @@
-# Blockchain + AI Chatbot 🤖⛓️  
+# Blockchain +  Chatbot AI 🤖⛓️  
 
 This project combines **OpenAI's GPT model** with an **Ethereum smart contract** to build a simple chatbot whose conversations are logged immutably on the blockchain.  
 It demonstrates how AI + Blockchain can be used together for transparency, auditability, and trust.
